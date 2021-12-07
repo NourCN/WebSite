@@ -1,0 +1,64 @@
+
+.App{
+  width: 90%;
+  margin-left: 5%;
+}
+
+.App-header{
+  margin-top: 20px;
+
+}
+.carousel{
+background-color:black;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.navColor a{
+
+  float: left;
+}
+
+
+#carouselExampleCaptions{
+  margin: 50px 50px 0px;
+  height: 500px;
+  width: 60%;
+margin-left: 20%;
+ 
+}
+ #carousel-inner{
+  height: 400px;
+ }
+img{
+  width: 60%;
+height: 500px;
+
+
+
+}
+
+.yy {
+  
+  display: flex;
+ justify-content: center;
+ background-color: gray;
+
+}
+.yy2 {
+  
+  display: flex;
+ justify-content: center;
+ background-color:gray;
+
+}
+.yy2 div {
+  margin: 10px;
+ }
+.yy div {
+ margin: 10px;
+}
+h1{
+  text-align: center;
+}
